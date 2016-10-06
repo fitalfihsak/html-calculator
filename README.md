@@ -1,2 +1,2 @@
-# html-calendar
-Very Basic HTML Calendar
+# html-calculator
+Very Basic HTML Calculator
